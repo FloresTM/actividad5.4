@@ -1,5 +1,5 @@
 // Actividad 5.4 Problemas de sincronización
-// David Langarica Hernandez | A01708733
+// David Langarica Hernandez | A01708936
 // Sebastian Flores Lemus | A01709229
 #include <iostream>
 #include <iomanip>
