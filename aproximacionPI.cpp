@@ -55,7 +55,7 @@ int main() {
     }
 
     double pi_estimate = 4.0 * points_in_circle / NUM_POINTS;
-    cout << "Aproximación de Pi: " << setprecision(15) << pi_estimate << endl;
+    cout << "Aproximacion de Pi: " << setprecision(15) << pi_estimate << endl;
 
     pthread_mutex_destroy(&mutex_points);
 
